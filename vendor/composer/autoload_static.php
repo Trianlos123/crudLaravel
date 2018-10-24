@@ -328,6 +328,7 @@ class ComposerStaticInitdfd749546d509a50900b22feacb20bd4
 
     public static $classMap = array (
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
+        'App\\Estudiante' => __DIR__ . '/../..' . '/app/Estudiante.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\Auth\\ForgotPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ForgotPasswordController.php',
         'App\\Http\\Controllers\\Auth\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/LoginController.php',
@@ -335,6 +336,7 @@ class ComposerStaticInitdfd749546d509a50900b22feacb20bd4
         'App\\Http\\Controllers\\Auth\\ResetPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ResetPasswordController.php',
         'App\\Http\\Controllers\\Auth\\VerificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/VerificationController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
+        'App\\Http\\Controllers\\EstudianteController' => __DIR__ . '/../..' . '/app/Http/Controllers/EstudianteController.php',
         'App\\Http\\Controllers\\Libro2Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Libro2Controller.php',
         'App\\Http\\Controllers\\LibroController' => __DIR__ . '/../..' . '/app/Http/Controllers/LibroController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
